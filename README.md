@@ -1,2 +1,2 @@
 # maven-quick-start
-repository for a quick start with Maven
+Sample repository for a quick start with Maven Project
